@@ -27,4 +27,4 @@ print(f"https://marketplace.visualstudio.com/_apis/public/gallery/publishers/{pu
 ```
 
 > 注意
-> 插件名和发布者要以 identifier 中的为准，因为我们熟知的插件名与插件打包的名发布的名字不一样
+> 插件名和发布者要以 identifier 中的为准，因为我们熟知的插件名可能与插件打包发布的名字不一样
