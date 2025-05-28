@@ -1,7 +1,7 @@
 ---
 title: vscode插件离线下载
 date: 2025-05-27 16:48:38
-tags:vscode
+tags:
 ---
 
 由于公司网络隔离,需要在无网络的情况下配置 vscode 的开发环境
